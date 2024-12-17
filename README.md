@@ -11,14 +11,16 @@
 </ul>
 </div>
 <h3>С чем работаю:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="javascript" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" alt="typescript"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>&nbsp;
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="javascript" display="block"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" alt="typescript" display="block"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" display="block"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="html5"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" alt="css3"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" alt=sass""/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" width="40" height="40" alt="webpack"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-plain.svg" width="40" height="40" alt="vite"/>&nbsp;
+</div>
 <h3>Как часто работаю:</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnastasiaGrid&theme=react)
@@ -28,5 +30,4 @@
 
 [![Codewars Badge](https://www.codewars.com/users/AnastasiaGrid/badges/small)](https://www.codewars.com/users/AnastasiaGrid)
 
-<li>Практикую неуместные шутки</li>
 
